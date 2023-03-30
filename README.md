@@ -45,7 +45,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](screenshot(22).png)
+![Screenshot (22)](https://user-images.githubusercontent.com/104640337/228761531-ed94c1a8-9ae6-4769-9292-b9fbe987ce8e.png)
 
 
 ## Result:
